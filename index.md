@@ -21,9 +21,9 @@ Socio-ecological change, societal visions and the ability to imagine social chan
 ## Education
 
 `09/2014 – 08/2015`
-__ M.Sc. Psychology (Behaviour Change)__
+**M.Sc. Psychology (Behaviour Change)**
 Radboud University Nijmegen
 
-`09/2014 – 08/2015`
-__ B.Sc. Psychology__
+`09/2010 – 08/2014`
+**B.Sc. Psychology**
 Radboud University Nijmegen
