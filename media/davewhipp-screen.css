@@ -187,7 +187,10 @@ strong {
 	display: none;
 }
 
-
+/* Remove underline from links */
+a {
+ border: none !important;
+}
 
 /*
 @media only screen and (max-width: 480px) {
