@@ -54,21 +54,5 @@ German Federal Environmental Foundation (DBU)
 
 ## Publications
 
-Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). [**From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy.**]( https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy){:target="_blank"} *British Journal of Social Psychology*, 64(1), e12811. https://doi.org/10.1111/bjso.12811
-
-Hamann, K. R. S., Wenzel, K., Dasch, S., Junge, E., von Agris, A.-S., & Bleh, J. (2024). How Can Psychological Research Support Movements for Socio-Ecological Change? A Qualitative Study on Psychological Challenges and Questions of Activists. Global Environmental Psychology. https://www.psycharchives.org/en/item/2723d856-0b7b-459c-a79f-f51c7ea529e0
-
-Hamann, K., Blumenschein, P., Junge, E., Dasch, S., Wernke, A., & Bleh, J. (2024). Klimabewegt: Die Psychologie von Klimaprotest und Engagement. oekom verlag. https://doi.org/10.14512/9783987263002
-
-Bleh, J. (2021). What do we want!? Identität, Moral und Wirksamkeit – Eine sozialpsychologische Perspektive auf die Erfolgsfaktoren der jungen Klimabewegung. In L. Dohm, F. Peter, & K. van Bronswijk (Hrsg.), Climate Action—Psychologie der Klimakrise (S. 251–282). Psychosozial-Verlag. https://doi.org/10.30820/9783837978018-251
-
-Scheffler, D., Bleh, J. & Wagner, F. (2016). Evaluation der Wirksamkeit eines Dialogmarketings zur Steigerung des Umweltverbundanteils am Modal Split von RentnerInnen. Umweltpsychologie, 38, 85-104.
-
-
-### Project reports
-
-Lichti, M., Schulz, V., Dammann, A., & Bleh, J. (2024). Final Report – Evaluation of the “Hallo Bundestag” Project. https://hallobundestag.de/_Resources/Persistent/2/d/6/5/2d6538f35385475068fe9f6eb7f0da1647bda484/EGL_HalloBundestag_EvaluationReport_final_EN.pdf
-
-Bleh, J. (2022). Evaluation der Beteiligungsverfahren zur Überarbeitung der städtischen Leitbilder in Tengen und Brandis. https://www.esgehtlos.org/site/assets/files/1855/evaluationsbericht_brandis_tengen.pdf
-
-Bleh, J. (2021). Evaluation Pilot Wahlkreisrat – Ergebnisse der Befragungen zu den Pilotveranstaltungen im Juni 2021. https://www.esgehtlos.org/site/assets/files/1791/be_evaluation_wkr2021_end.pdf
+Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). **From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy.** *British Journal of Social Psychology, 64*(1), e12811. https://doi.org/10.1111/bjso.12811
+[[Full-text available]](https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy){:target="_blank"} 
