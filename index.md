@@ -33,7 +33,7 @@ Radboud University Nijmegen
 
 ## Work Experience
 `since 03/2023` **Research associate**\
-department of social psychology University of Leipzig
+Department of social psychology University of Leipzig
 
 `since 01/2016` **Applied researcher, facilitator and project evaluator**\
 e-fect eG
@@ -54,7 +54,7 @@ German Federal Environmental Foundation (DBU)
 
 ## Publications
 
-Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy. British Journal of Social Psychology, 64(1), e12811. https://doi.org/10.1111/bjso.12811
+Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). [**From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy.**]( https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy) *British Journal of Social Psychology*, 64(1), e12811. https://doi.org/10.1111/bjso.12811
 
 Hamann, K. R. S., Wenzel, K., Dasch, S., Junge, E., von Agris, A.-S., & Bleh, J. (2024). How Can Psychological Research Support Movements for Socio-Ecological Change? A Qualitative Study on Psychological Challenges and Questions of Activists. Global Environmental Psychology. https://www.psycharchives.org/en/item/2723d856-0b7b-459c-a79f-f51c7ea529e0
 
@@ -72,3 +72,4 @@ Lichti, M., Schulz, V., Dammann, A., & Bleh, J. (2024). Final Report – Evaluat
 Bleh, J. (2022). Evaluation der Beteiligungsverfahren zur Überarbeitung der städtischen Leitbilder in Tengen und Brandis. https://www.esgehtlos.org/site/assets/files/1855/evaluationsbericht_brandis_tengen.pdf
 
 Bleh, J. (2021). Evaluation Pilot Wahlkreisrat – Ergebnisse der Befragungen zu den Pilotveranstaltungen im Juni 2021. https://www.esgehtlos.org/site/assets/files/1791/be_evaluation_wkr2021_end.pdf
+![image](https://github.com/user-attachments/assets/3998017d-b676-41f0-8d09-c6bbe34bc9da)
