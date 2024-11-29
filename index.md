@@ -27,4 +27,3 @@ Radboud University Nijmegen
 `09/2014 – 08/2015`
 __ B.Sc. Psychology__
 Radboud University Nijmegen
-![image](https://github.com/user-attachments/assets/de39caaa-d7be-49a8-b6f2-3559a761e3d2)
