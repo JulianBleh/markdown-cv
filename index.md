@@ -72,4 +72,3 @@ Lichti, M., Schulz, V., Dammann, A., & Bleh, J. (2024). Final Report – Evaluat
 Bleh, J. (2022). Evaluation der Beteiligungsverfahren zur Überarbeitung der städtischen Leitbilder in Tengen und Brandis. https://www.esgehtlos.org/site/assets/files/1855/evaluationsbericht_brandis_tengen.pdf
 
 Bleh, J. (2021). Evaluation Pilot Wahlkreisrat – Ergebnisse der Befragungen zu den Pilotveranstaltungen im Juni 2021. https://www.esgehtlos.org/site/assets/files/1791/be_evaluation_wkr2021_end.pdf
-![image](https://github.com/user-attachments/assets/a2513cf8-f61c-4c9d-a0da-1d016a228438)
