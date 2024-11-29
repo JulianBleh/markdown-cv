@@ -49,6 +49,8 @@ table {
 
 /* end of reset */
 
+
+
 body {
 	font: normal normal 400;
 	font-size: 100%;
@@ -80,6 +82,7 @@ p code {
 	text-align: right;
 	right: -20%;
 }
+
 
 ul {
 	position: relative;
@@ -151,11 +154,11 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration: underline;
+	/*text-decoration:none*/
 }
 
 a:hover {
-	color:#39f;
+	color:#39f
 }
 
 #webaddress {
@@ -168,10 +171,11 @@ a:hover {
 }
 
 #webaddress a {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 em {
+	/* font-weight: bold; */
 	font-style: italic;
 }
 
@@ -183,7 +187,9 @@ strong {
 	display: none;
 }
 
-/* Add this new rule to handle Markdown-style italic text */
-*:not(em) {
-	font-style: italic;
-}
+
+
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/
