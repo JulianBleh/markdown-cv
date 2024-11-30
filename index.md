@@ -36,7 +36,7 @@ Radboud University Nijmegen
 
 ## Work Experience
 `since 03/2023` **Research associate**\
-Department of social psychology University of Leipzig
+Department of social psychology Leipzig University
 
 `since 01/2016` **Applied researcher, facilitator and project evaluator**\
 e-fect eG
