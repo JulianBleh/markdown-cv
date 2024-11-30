@@ -7,11 +7,7 @@ title: CV Julian Bleh
 
 Social psychologist, basic and applied researcher, facilitator.
 
-<div id="webaddress">
-<a href="mailto:julian.bleh@uni-leipzig.de">julian.bleh@uni-leipzig.de</a>
-| <a href="https://julianbleh.github.io/" target="_blank" rel="noopener noreferrer">https://julianbleh.github.io/</a>
-</div>
-
+<div id="webaddress"> <a href="mailto:julian.bleh@uni-leipzig.de">julian.bleh@uni-leipzig.de</a> | <a href="https://julianbleh.github.io/" target="_blank" rel="noopener noreferrer">https://julianbleh.github.io/</a> </div>
 
 ## Research interests
 
@@ -84,8 +80,7 @@ Scheffler, D., Bleh, J. & Wagner, F. (2016). Evaluation der Wirksamkeit eines Di
 I have given numerous workshops introducing and applying social psychological findings to practical questions of campaigning for socio-ecological change, e.g. for organisations like BUND (Friends of the Earth Germany), Greenpeace, NABU or Demokratie-Stiftung Campact.
 
 ### Teaching
-Teaching experience at Leipzig University:
-
+Teaching experience at Leipzig University
 - Lecture and tutorial in *Environmental Psychology* (Psychology Master)
 - Project course *Consulting in Applied Social and Environmental Psychology* (Psychology Master)
 - Supervision of various BSc-/MSc dissertation projects and research interns
@@ -117,13 +112,13 @@ Evaluation of the ‘Future for All’ conference on socio-ecological visions fo
 
 Stakeholder survey on the impact of the corona pandemic on actors of Education for Sustainable Development in the State of Brandenburg (2020) [survey]; MLUK Brandenburg
 
-Evaluation of the campaign ‘Weltbaustellen NRW’ to raise awareness for the Sustainable Development Goals in public spaces (2018-2019) [survey, focus groups]; Stiftung Umwelt und Entwicklung
-
 Potential analysis and development of criteria for impactful art-based communication of sustainability topics in public spaces (2019-2020); Stiftung Umwelt und Entwicklung
 
-Evaluation of the Degrogwth Summer Schools in 2017, 2018 and 2019 [survey]; Konzeptwerk Neue Ökonomie e.V.
+Evaluation of the campaign ‘Weltbaustellen NRW’ to raise awareness for the Sustainable Development Goals in public spaces (2018-2019) [survey, focus groups]; Stiftung Umwelt und Entwicklung
 
 Evaluation und monitoring of the joint project ‘Schatz an der Küste’ to promote the identification with local nature and biodiversity protection (2016-2020) [document analysis, interviews, surveys]; Ostseestiftung Greifswald funded by BfN
+
+Evaluation of the Degrogwth Summer Schools in 2017, 2018 and 2019 [survey]; Konzeptwerk Neue Ökonomie e.V.
 
 Potential analysis of the impact of school gardens on Education for Sustainable Development (2018-2019) [desk research, interviews with experts and stakeholders]; NABU e.V. funded by DBU
 
