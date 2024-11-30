@@ -8,8 +8,8 @@ title: CV Julian Bleh
 Social psychologist, basic and applied researcher, facilitator.
 
 <div id="webaddress">
-<a href="julian.bleh@uni-leipzig.de"> julian.bleh@uni-leipzig.de </a>
-| <a href="https://julianbleh.github.io/ "> https://julianbleh.github.io/</a>
+<a href="mailto:julian.bleh@uni-leipzig.de">julian.bleh@uni-leipzig.de</a>
+| <a href="https://julianbleh.github.io/" target="_blank" rel="noopener noreferrer">https://julianbleh.github.io/</a>
 </div>
 
 
