@@ -131,7 +131,7 @@ Evaluation of the educational project ‘Klimabildung+’ on the management of d
 Evaluation of the TINK pilot project to introduce a rental system for cargo bikes in German cities (2015-2019) [survey, interviews]; City of Constance and City of Norderstedt funded by BMVI
 
 
-### Facilitation
+### Facilitation (selection)
 
 Design and facilitation of a workshop on methods for using societal visions and future scenarios in Education for Sustainable Development (2024); Runder Tisch BNE funded by MLUK Brandenburg
 
