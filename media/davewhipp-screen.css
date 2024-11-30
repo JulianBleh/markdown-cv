@@ -32,8 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: disc; /* Changed from 'none' to 'disc' */
-	padding-left: 2em; /* Added padding for bullet points */
+	list-style: none;
 }
 blockquote, q {
 	quotes: none;
@@ -50,10 +49,13 @@ table {
 
 /* end of reset */
 
+
+
 body {
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
@@ -70,6 +72,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
+	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
 }
@@ -80,6 +83,7 @@ p code {
 	right: -20%;
 }
 
+
 ul {
 	position: relative;
 	left: 25%;
@@ -88,10 +92,18 @@ ul {
 	margin-top: -0.5em;
 }
 
+/*uncomment to get dashes in the list*/
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}*/
+
 li {
-	padding-left: 0.25em; /* Reduced padding */
-	text-indent: 0; /* Removed text indent */
-	margin-bottom: 0.5em; /* Added space between list items */
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	/*color: #777;*/
 }
 
 li ul {
@@ -116,6 +128,7 @@ h1 {
 }
 
 h1+p {
+	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
 }
@@ -141,6 +154,7 @@ h3 {
 
 a {
 	color: inherit;
+	/*text-decoration:none*/
 }
 
 a:hover {
@@ -161,6 +175,7 @@ a:hover {
 }
 
 em {
+	/* font-weight: bold; */
 	font-style: italic;
 }
 
@@ -171,6 +186,8 @@ strong {
 #address {
 	display: none;
 }
+
+
 
 /*
 @media only screen and (max-width: 480px) {
