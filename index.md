@@ -52,6 +52,16 @@ Freelance
 
 ## Publications
 
+<div id="external-content"></div>
+
+<script>
+  fetch('https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/PATH/TO/FILE.md')
+    .then(response => response.text())
+    .then(markdown => {
+      document.getElementById('external-content').textContent = markdown;
+    })
+    .catch(error => console.error('Error fetching Markdown file:', error));
+</script>
 
 Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). **From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy**. *British Journal of Social Psychology, 64*(1), e12811. https://doi.org/10.1111/bjso.12811 [[Full-text available]](https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy){:target="_blank"} 
 
