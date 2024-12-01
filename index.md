@@ -92,7 +92,7 @@ Teaching experience at Leipzig University:
 
 ### Academic research
 
-PhD project ‘Transformation als Frage der Vorstellungskraft‘ – Transformation as a Matter of Imagination: A social psychological study of what makes societal visions motivating, how they work and what role they play in promoting collective action for socio-ecological change (2022) │ Phd scholarship from German Federal Environmental Foundation (DBU) (72.360 €)
+PhD project ‘Transformation als Frage der Vorstellungskraft‘ – Transformation as a Matter of Imagination: A social psychological study of what makes societal visions motivating, how they work and what role they play in promoting collective action for socio-ecological change (2023-2026) │ Phd scholarship from German Federal Environmental Foundation (DBU) (72.360 €)
 
 ### Applied research (selection)
 
