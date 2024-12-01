@@ -100,13 +100,13 @@ Evaluation of a regional citizen participation project on community development 
 
 Evaluation of the federal citizen assembly project ‘Hallo Bundestag’ (2023-2024) │ survey, interviews, participant observation │ Es geht LOS │ funded by Robert Bosch Stiftung, ZEIT-Stiftung, Open Society Foundations, Bundeszentrale für politische Bildung (67.000 €)
 
-Evaluation of regional citizen assemblies in the German municipalities Tengen and Brandis (2021-2022) │ participant observation, survey, interviews │ Es geht LOS │ funded by BMI (16.000 €)
+Evaluation of regional citizen assemblies in the German municipalities Tengen and Brandis (2021-2022) │ survey, interviews, participant observation │ Es geht LOS │ funded by BMI (16.000 €)
 
 Evaluation of the project ‚GemüseKlasse‘ to promote healthy and sustainable eating habits in primary schools (2021-2023) │ survey, focus groups │ Acker e.V. funded by BMG (44.800 €)
 
 Evaluation of the use and usefulness of the Germany Talks Climate Toolkit (2022) │ interviews │ Climate Outreach
 
-Evaluation of the pilot of the federal citizen assembly project ‘Wahlkreisräte’ (2020-2021) │ participant observation, survey, interviews │ Es geht LOS
+Evaluation of the pilot of the federal citizen assembly project ‘Wahlkreisräte’ (2020-2021) │ survey, interviews, participant observation │ Es geht LOS
 
 Consulting on the development of aims, indicators and survey designs for the impact evaluation of public relations and advocacy work (2020) │ polisphere e.V.
 
