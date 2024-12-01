@@ -14,31 +14,35 @@ Social psychologist, basic and applied researcher, facilitator.
 Socio-ecological change, societal visions and the ability to imagine social change (cognitive alternatives), implicit theories, social movements, political participation, quantitative and qualitative methods, experimental and longitudinal research designs, project evaluation and evaluation research
 
 
+
 ## Education
 
-*since 03/2023* **PhD student**
-Department of social psychology Leipzig University\
-Scholarship from German Federal Environmental Foundation (DBU)
+`since 03/2023`
+**PhD student**\
+Department of social psychology Leipzig University
 
-*09/2014 - 08/2015* **M.Sc. Psychology** (Behaviour Change)\
+**PhD scholarship**\
+German Federal Environmental Foundation (DBU)
+
+`09/2014 – 08/2015` **M.Sc. Psychology** (Behaviour Change)\
 Radboud University Nijmegen
 
-*09/2010 - 08/2014* **B.Sc. Psychology**\
+`09/2010 – 08/2014` **B.Sc. Psychology**\
 Radboud University Nijmegen
 
 
 ## Work Experience
-*since 03/2023* **Research associate**\
+`since 03/2023` **Research associate**\
 Department of social psychology Leipzig University
 
-*since 01/2016* **Applied researcher, facilitator and project evaluator**\
+`since 01/2016` **Applied researcher, facilitator and project evaluator**\
 e-fect eG
 
-*11/2015 - 04/2016* **Research assistant**\
+`11/2015 – 04/2016` **Research assistant**\
 International Centre for Sustainable Development\
 (Bonn-Rhein-Sieg University of Applied Sciences)
 
-*09/2012 - 10/2015* **Writer and translator**\
+`09/2012 – 10/2015` **Writer and translator**\
 Freelance
 
 
