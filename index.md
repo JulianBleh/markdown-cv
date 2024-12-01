@@ -7,7 +7,7 @@ title: CV Julian Bleh
 
 Social psychologist, basic and applied researcher, facilitator.
 
-<div id="webaddress"> <a href="mailto:julian.bleh@uni-leipzig.de">julian.bleh@uni-leipzig.de</a> • <a href="https://julianbleh.github.io/" target="_blank" rel="noopener noreferrer">https://julianbleh.github.io/</a> </div>
+<div id="webaddress"> <a href="mailto:julian.bleh@uni-leipzig.de">julian.bleh@uni-leipzig.de</a> │ <a href="https://julianbleh.github.io/" target="_blank" rel="noopener noreferrer">https://julianbleh.github.io/</a> </div>
 
 ## Research interests
 
@@ -96,53 +96,53 @@ Teaching experience at Leipzig University:
 
 ### Academic research
 
-PhD project ‘Transformation als Frage der Vorstellungskraft‘ – Transformation as a Matter of Imagination: A social psychological study of what makes societal visions motivating, how they work and what role they play in promoting collective action for socio-ecological change (2022) • Phd scholarship from German Federal Environmental Foundation (DBU) (72.360 €)
+PhD project ‘Transformation als Frage der Vorstellungskraft‘ – Transformation as a Matter of Imagination: A social psychological study of what makes societal visions motivating, how they work and what role they play in promoting collective action for socio-ecological change (2022) │ Phd scholarship from German Federal Environmental Foundation (DBU) (72.360 €)
 
 ### Applied research (selection)
 
-Evaluation of a regional citizen participation project on community development with the Doughnut model of social and planetary boundaries (2023-2025) • survey, interviews, participant observation • Next Economy Lab e.V. • funded by Robert Bosch Stiftung (53.500 €)
+Evaluation of a regional citizen participation project on community development with the Doughnut model of social and planetary boundaries (2023-2025) │ survey, interviews, participant observation │ Next Economy Lab e.V. │ funded by Robert Bosch Stiftung (53.500 €)
 
-Evaluation of the federal citizen assembly project ‘Hallo Bundestag’ (2023-2024) • survey, interviews, participant observation • Es geht LOS • funded by Robert Bosch Stiftung, ZEIT-Stiftung, Open Society Foundations, Bundeszentrale für politische Bildung (67.000 €)
+Evaluation of the federal citizen assembly project ‘Hallo Bundestag’ (2023-2024) │ survey, interviews, participant observation │ Es geht LOS │ funded by Robert Bosch Stiftung, ZEIT-Stiftung, Open Society Foundations, Bundeszentrale für politische Bildung (67.000 €)
 
-Evaluation of regional citizen assemblies in the German municipalities Tengen and Brandis (2021-2022) • participant observation, survey, interviews • Es geht LOS • funded by BMI (16.000 €)
+Evaluation of regional citizen assemblies in the German municipalities Tengen and Brandis (2021-2022) │ participant observation, survey, interviews │ Es geht LOS │ funded by BMI (16.000 €)
 
-Evaluation of the project ‚GemüseKlasse‘ to promote healthy and sustainable eating habits in primary schools (2021-2023) • survey, focus groups • Acker e.V. funded by BMG (44.800 €)
+Evaluation of the project ‚GemüseKlasse‘ to promote healthy and sustainable eating habits in primary schools (2021-2023) │ survey, focus groups │ Acker e.V. funded by BMG (44.800 €)
 
-Evaluation of the use and usefulness of the Germany Talks Climate Toolkit (2022) • interviews • Climate Outreach
+Evaluation of the use and usefulness of the Germany Talks Climate Toolkit (2022) │ interviews │ Climate Outreach
 
-Evaluation of the pilot of the federal citizen assembly project ‘Wahlkreisräte’ (2020-2021) • participant observation, survey, interviews • Es geht LOS
+Evaluation of the pilot of the federal citizen assembly project ‘Wahlkreisräte’ (2020-2021) │ participant observation, survey, interviews │ Es geht LOS
 
-Consulting on the development of aims, indicators and survey designs for the impact evaluation of public relations and advocacy work (2020) • polisphere e.V.
+Consulting on the development of aims, indicators and survey designs for the impact evaluation of public relations and advocacy work (2020) │ polisphere e.V.
 
-Evaluation of the ‘Future for All’ conference on socio-ecological visions for society (2020) • survey • Konzeptwerk Neue Ökonomie e.V.
+Evaluation of the ‘Future for All’ conference on socio-ecological visions for society (2020) │ survey │ Konzeptwerk Neue Ökonomie e.V.
 
-Stakeholder survey on the impact of the corona pandemic on actors of Education for Sustainable Development in the State of Brandenburg (2020) • survey • MLUK Brandenburg
+Stakeholder survey on the impact of the corona pandemic on actors of Education for Sustainable Development in the State of Brandenburg (2020) │ survey │ MLUK Brandenburg
 
-Potential analysis and development of criteria for impactful art-based communication of sustainability topics in public spaces (2019-2020) • Stiftung Umwelt und Entwicklung
+Potential analysis and development of criteria for impactful art-based communication of sustainability topics in public spaces (2019-2020) │ Stiftung Umwelt und Entwicklung
 
-Evaluation of the campaign ‘Weltbaustellen NRW’ to raise awareness for the Sustainable Development Goals in public spaces (2018-2019) • survey, focus groups • Stiftung Umwelt und Entwicklung
+Evaluation of the campaign ‘Weltbaustellen NRW’ to raise awareness for the Sustainable Development Goals in public spaces (2018-2019) │ survey, focus groups │ Stiftung Umwelt und Entwicklung
 
-Evaluation und monitoring of the joint project ‘Schatz an der Küste’ to promote the identification with local nature and biodiversity protection (2016-2020) • document analysis, interviews, surveys • Ostseestiftung Greifswald • funded by BfN
+Evaluation und monitoring of the joint project ‘Schatz an der Küste’ to promote the identification with local nature and biodiversity protection (2016-2020) │ document analysis, interviews, surveys │ Ostseestiftung Greifswald │ funded by BfN
 
-Evaluation of the Degrogwth Summer Schools in 2017, 2018 and 2019 • survey • Konzeptwerk Neue Ökonomie e.V.
+Evaluation of the Degrogwth Summer Schools in 2017, 2018 and 2019 │ survey │ Konzeptwerk Neue Ökonomie e.V.
 
-Potential analysis of the impact of school gardens on Education for Sustainable Development (2018-2019) • desk research, interviews with experts and stakeholders • NABU e.V. • funded by DBU
+Potential analysis of the impact of school gardens on Education for Sustainable Development (2018-2019) │ desk research, interviews with experts and stakeholders │ NABU e.V. │ funded by DBU
 
-Evaluation of the educational project ‘Klimabildung+’ on the management of dissonance experiences by school children (2016-2017) • survey, focus groups • NaturGut Ophoven
+Evaluation of the educational project ‘Klimabildung+’ on the management of dissonance experiences by school children (2016-2017) │ survey, focus groups │ NaturGut Ophoven
 
-Evaluation of the TINK pilot project to introduce a rental system for cargo bikes in German cities (2015-2019) • survey, interviews • City of Constance and City of Norderstedt • funded by BMVI
+Evaluation of the TINK pilot project to introduce a rental system for cargo bikes in German cities (2015-2019) │ survey, interviews │ City of Constance and City of Norderstedt │ funded by BMVI
 
 
 ### Facilitation (selection)
 
-Design and facilitation of a workshop on methods for using societal visions and future scenarios in Education for Sustainable Development (2024) • Runder Tisch BNE funded by MLUK Brandenburg
+Design and facilitation of a workshop on methods for using societal visions and future scenarios in Education for Sustainable Development (2024) │ Runder Tisch BNE funded by MLUK Brandenburg
 
-Design and facilitation of a workshop on boundary conditions and competences for running a sustainable business (2022) • Runder Tisch BNE funded by MLUK Brandenburg
+Design and facilitation of a workshop on boundary conditions and competences for running a sustainable business (2022) │ Runder Tisch BNE funded by MLUK Brandenburg
 
-Development of a qualitative goal system and facilitation of the decision-making process towards a roadmap to climate neutrality in Lippstadt with representatives from civil society, city council and administration (2021) • City of Lippstadt
+Development of a qualitative goal system and facilitation of the decision-making process towards a roadmap to climate neutrality in Lippstadt with representatives from civil society, city council and administration (2021) │ City of Lippstadt
 
-Design and facilitation of a workshop on sustainable community development from below (2021) • Runder Tisch BNE funded by MLUK Brandenburg
+Design and facilitation of a workshop on sustainable community development from below (2021) │ Runder Tisch BNE funded by MLUK Brandenburg
 
-Design and facilitation of a workshop on how the Fridays for Future movement and Education for Sustainable Development actors could cooperate (2019) • Runder Tisch BNE funded by MLUK Brandenburg
+Design and facilitation of a workshop on how the Fridays for Future movement and Education for Sustainable Development actors could cooperate (2019) │ Runder Tisch BNE funded by MLUK Brandenburg
 
-Facilitation of working groups on a possible reorientation of the funding program by the Regional Office for Development Cooperation Berlin (2018) • Landesstelle für Entwicklungszusammenarbeit (LEZ) Berlin
+Facilitation of working groups on a possible reorientation of the funding program by the Regional Office for Development Cooperation Berlin (2018) │ Landesstelle für Entwicklungszusammenarbeit (LEZ) Berlin
