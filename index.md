@@ -83,9 +83,9 @@ I have given numerous workshops introducing and applying social psychological fi
 ### Teaching
 Teaching experience at Leipzig University:
 Teaching experience at Leipzig University:
-- – Lecture and tutorial in *Environmental Psychology* (Psychology Master)
-- – Project course *Consulting in Applied Social and Environmental Psychology* (Psychology Master)
-- – Supervision of various BSc-/MSc dissertation projects and research interns
+- – Lecture and tutorial in *Environmental Psychology* (M.Sc. Psychology)
+- – Project course *Consulting in Applied Social and Environmental Psychology* (M.Sc. Psychology)
+- – Supervision of various B.Sc.-/M.Sc. dissertation projects and research interns
 
 
 ## Project experience & Funding acquisition
