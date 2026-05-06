@@ -61,6 +61,8 @@ Hamann, K. R. S., Wenzel, K., Dasch, S., Junge, E., Agris, A.-S. von, & **Bleh, 
 
 ### Books & Chapters
 
+Fritsche, I., Masson, T., & **Bleh, J.** (in press). Social Identity Processes: “We” as Climate Solution. In M. Vlasceanu & S. van der Linden (Eds), *The Psychological Foundations of Climate Solutions*. Cambridge University Press.
+
 Hamann, K., Junge, E., Blumenschein, P., Dasch, S., Wernke, A., & **Bleh, J.** (2025). *The Psychology of Collective Climate Action: Building Climate Courage*. Routledge. [[Full-text available]](https://doi.org/10.4324/9781003558439){:target="_blank"}
 
 Hamann, K., Blumenschein, P., Junge, E., Dasch, S., Wernke, A., & **Bleh, J.** (2024). *Klimabewegt: Die Psychologie von Klimaprotest und Engagement*. oekom verlag. [[Full-text available]](https://www.oekom.de/buch/klimabewegt-9783987260704){:target="_blank"}
