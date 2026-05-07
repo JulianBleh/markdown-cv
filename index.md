@@ -100,9 +100,9 @@ PhD project ‘Transformation als Frage der Vorstellungskraft‘ – Transformat
 
 ### Applied research (selection)
 
-Evaluation of a regional citizen participation project on community development with the Doughnut model of social and planetary boundaries (2023-2025) │ survey (quasi-experiment), interviews, participant observation │ Next Economy Lab e.V. │ funded by Robert Bosch Stiftung (53.500 €)
+Evaluation of a regional citizen participation project on community development with the Doughnut model of social and planetary boundaries (2023-2025) │ survey, interviews, participant observation │ Next Economy Lab e.V. │ funded by Robert Bosch Stiftung (53.500 €)
 
-Evaluation of the federal citizen assembly project ‘Hallo Bundestag’ (2023-2024) │ survey (pre-post-follow-up), interviews, participant observation │ Es geht LOS │ funded by Robert Bosch Stiftung, ZEIT-Stiftung, Open Society Foundations, Bundeszentrale für politische Bildung (67.000 €)
+Evaluation of the federal citizen assembly project ‘Hallo Bundestag’ (2023-2024) │ survey (quasi-experiment), interviews, participant observation │ Es geht LOS │ funded by Robert Bosch Stiftung, ZEIT-Stiftung, Open Society Foundations, Bundeszentrale für politische Bildung (67.000 €)
 
 Evaluation of regional citizen assemblies in the German municipalities Tengen and Brandis (2021-2022) │ survey (pre-post-follow-up), interviews, participant observation │ Es geht LOS │ funded by BMI (16.000 €)
 
@@ -131,21 +131,6 @@ Potential analysis of the impact of school gardens on Education for Sustainable 
 Evaluation of the educational project ‘Klimabildung+’ on the management of dissonance experiences by school children (2016-2017) │ survey (pre-post), focus groups │ NaturGut Ophoven
 
 Evaluation of the TINK pilot project to introduce a rental system for cargo bikes in German cities (2015-2019) │ survey, interviews │ City of Constance and City of Norderstedt │ funded by BMVI
-
-
-### Facilitation (selection)
-
-Design and facilitation of a workshop on methods for using societal visions and future scenarios in Education for Sustainable Development (2024) │ Runder Tisch BNE funded by MLUK Brandenburg
-
-Design and facilitation of a workshop on boundary conditions and competences for running a sustainable business (2022) │ Runder Tisch BNE funded by MLUK Brandenburg
-
-Development of a qualitative goal system and facilitation of the decision-making process towards a roadmap to climate neutrality in Lippstadt with representatives from civil society, city council and administration (2021) │ City of Lippstadt
-
-Design and facilitation of a workshop on sustainable community development from below (2021) │ Runder Tisch BNE funded by MLUK Brandenburg
-
-Design and facilitation of a workshop on how the Fridays for Future movement and Education for Sustainable Development actors could cooperate (2019) │ Runder Tisch BNE funded by MLUK Brandenburg
-
-Facilitation of working groups on a possible reorientation of the funding program by the Regional Office for Development Cooperation Berlin (2018) │ Landesstelle für Entwicklungszusammenarbeit (LEZ) Berlin
 
 
 ### Facilitation (selection)
