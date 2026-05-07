@@ -17,12 +17,8 @@ Socio-ecological change, societal visions and the ability to imagine social chan
 
 ## Education
 
-`since 03/2023`
-**PhD student**\
+`since 03/2023` **PhD student**\
 Department of social psychology Leipzig University
-
-**PhD scholarship**\
-German Federal Environmental Foundation (DBU)
 
 `09/2014 – 08/2015` **M.Sc. Psychology** (Behaviour Change)\
 Radboud University Nijmegen
@@ -32,8 +28,12 @@ Radboud University Nijmegen
 
 
 ## Work Experience
-`since 03/2023` **Research associate**\
+
+`since 03/2026` **Research associate (Wissenschaftlicher Mitarbeiter) **\
 Department of social psychology Leipzig University
+
+`03/2023 – 02/2026` **PhD scholarship**\
+German Federal Environmental Foundation (DBU)
 
 `since 01/2016` **Applied researcher, facilitator and project evaluator**\
 e-fect eG
@@ -44,6 +44,7 @@ International Centre for Sustainable Development\
 
 `09/2012 – 10/2015` **Writer and translator**\
 Freelance
+
 
 
 
@@ -60,7 +61,6 @@ Hess, F. M., Masson, T., **Bleh, J.**, & Kessler, T. (2025). Heating up intergro
 Hamann, K. R. S., Wenzel, K., Dasch, S., Junge, E., Agris, A.-S. von, & **Bleh, J.** (2025). How Can Psychological Research Support Movements for Socio-Ecological Change? A Qualitative Study on Psychological Challenges and Questions of Activists. *Global Environmental Psychology, 3*, 1–25. [[Full-text available]](https://doi.org/10.5964/gep.13089){:target="_blank"}
 
 ### Books & Chapters
-
 Fritsche, I., Masson, T., & **Bleh, J.** (in press). Social Identity Processes: “We” as Climate Solution. In M. Vlasceanu & S. van der Linden (Eds), *The Psychological Foundations of Climate Solutions*. Cambridge University Press.
 
 Hamann, K., Junge, E., Blumenschein, P., Dasch, S., Wernke, A., & **Bleh, J.** (2025). *The Psychology of Collective Climate Action: Building Climate Courage*. Routledge. [[Full-text available]](https://doi.org/10.4324/9781003558439){:target="_blank"}
