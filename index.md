@@ -86,10 +86,10 @@ Scheffler, D., Bleh, J. & Wagner, F. (2016). Evaluation der Wirksamkeit eines Di
 I have given numerous workshops introducing and applying social psychological findings to practical questions of campaigning for socio-ecological change, e.g. for organisations like BUND (Friends of the Earth Germany), Greenpeace, NABU or Demokratie-Stiftung Campact.
 
 ### Teaching
-Teaching experience at Leipzig University:
-- – Lecture and tutorial in *Environmental Psychology* (M.Sc. Psychology)
-- – Project course *Consulting in Applied Social and Environmental Psychology* (M.Sc. Psychology)
-- – Supervision of various B.Sc.-/M.Sc. dissertation projects and research interns
+- – Lecture (1 of 6 lectures) in *Environmental Psychology* and small-group seminar *Environmental Psychological Problem Analysis*, (M.Sc. Psychology, 5 ECTS), Summer Term 2023, Leipzig University
+- – Project course *Consulting in Applied Social and Environmental Psychology* (M.Sc. Psychology, 5 ECTS), Summer Term 2024, Leipzig University
+- – Lecture *Research Methods and Statistics II*, specialization in Business Psychology (B.Sc. Business Administration, 5 ECTS), Summer Term 2026, Magdeburg-Stendal University of Applied Sciences
+- – Supervision of 2 B.Sc. and 3 M.Sc. thesis projects, as well as various research interns
 
 
 ## Project experience & Funding acquisition
