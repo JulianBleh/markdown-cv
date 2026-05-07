@@ -29,7 +29,7 @@ Radboud University Nijmegen
 
 ## Work Experience
 
-`since 03/2026` **Research associate (Wissenschaftlicher Mitarbeiter) **\
+`since 03/2026` **Research associate (Wissenschaftlicher Mitarbeiter)**\
 Department of social psychology Leipzig University
 
 `03/2023 – 02/2026` **PhD scholarship**\
