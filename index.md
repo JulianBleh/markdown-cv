@@ -29,7 +29,10 @@ Radboud University Nijmegen
 
 ## Work Experience
 
-`since 03/2026` **Research associate (Wissenschaftlicher Mitarbeiter)**\
+`since 07/2026` **Research associate (Wissenschaftlicher Mitarbeiter)**\
+Department of social and organisational psychology of social work Leuphana University of Lüneburg
+
+`03/2026 – 06/2026`  **Research associate (Wissenschaftlicher Mitarbeiter)**\
 Department of social psychology Leipzig University
 
 `03/2023 – 02/2026` **PhD scholarship**\
@@ -44,6 +47,7 @@ International Centre for Sustainable Development\
 
 `09/2012 – 10/2015` **Writer and translator**\
 Freelance
+
 
 
 ## Publications
