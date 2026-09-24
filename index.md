@@ -46,13 +46,11 @@ International Centre for Sustainable Development\
 Freelance
 
 
-
-
 ## Publications
 
 ### Articles & Preprints
 
-**Bleh, J.**, Masson, T., & Fritsche, I. (2025). *Envisioning a possible alternative society increases support for socio-ecological change*. [[Full-text available]](https://www.researchgate.net/publication/394481217_Envisioning_a_possible_alternative_society_increases_support_for_socio-ecological_change){:target="_blank"}
+**Bleh, J.**, Masson, T., Hamann, K. R. S., & Fritsche, I. (2026). *The vision approach to social change: Why and when envisioning alternative societies motivates support for socio-ecological transformation*. [[Full-text available]]( https://www.researchgate.net/publication/394481217_The_vision_approach_to_social_change_Why_and_when_envisioning_alternative_societies_motivates_support_for_socio-ecological_transformation){:target="_blank"}
 
 Hess, F. M., Masson, T., **Bleh, J.**, & Kessler, T. (2025). Heating up intergroup conflict: Radical antagonistic responses to the threats of rapid climate change. *Psychology of Violence*. [[Full-text available]](https://www.researchgate.net/publication/394285746_Heating_up_intergroup_conflict_Radical_antagonistic_responses_to_the_threats_of_rapid_climate_change){:target="_blank"}
 
@@ -61,6 +59,7 @@ Hess, F. M., Masson, T., **Bleh, J.**, & Kessler, T. (2025). Heating up intergro
 Hamann, K. R. S., Wenzel, K., Dasch, S., Junge, E., Agris, A.-S. von, & **Bleh, J.** (2025). How Can Psychological Research Support Movements for Socio-Ecological Change? A Qualitative Study on Psychological Challenges and Questions of Activists. *Global Environmental Psychology, 3*, 1–25. [[Full-text available]](https://doi.org/10.5964/gep.13089){:target="_blank"}
 
 ### Books & Chapters
+
 Fritsche, I., Masson, T., & **Bleh, J.** (in press). Social Identity Processes: “We” as Climate Solution. In M. Vlasceanu & S. van der Linden (Eds), *The Psychological Foundations of Climate Solutions*. Cambridge University Press.
 
 Hamann, K., Junge, E., Blumenschein, P., Dasch, S., Wernke, A., & **Bleh, J.** (2025). *The Psychology of Collective Climate Action: Building Climate Courage*. Routledge. [[Full-text available]](https://doi.org/10.4324/9781003558439){:target="_blank"}
@@ -81,15 +80,47 @@ Bleh, J. (2021). *Evaluation Pilot Wahlkreisrat – Ergebnisse der Befragungen z
 
 Scheffler, D., Bleh, J. & Wagner, F. (2016). Evaluation der Wirksamkeit eines Dialogmarketings zur Steigerung des Umweltverbundanteils am Modal Split von RentnerInnen. *Umweltpsychologie, 38,* 85-104.
 
+## Talks
+
+### Conference Presentations & Invited Talks
+
+Bleh, J., Masson, T., & Fritsche, I. (2026, September 21–24). *From vision to action: The motivating effects of societal visions and the role of human nature beliefs in shaping what is perceived as possible* [Paper presentation]. Sub-conference "The Psychology of Subjective Agency in the Collective Biodiversity & Climate Crisis" at the Connections between Biodiversity and Climate Conference (CBC2026), Leipzig, Germany.
+
+Bleh, J. (2026, September 9–11). *Prefigurative experiences as inspiration for societal imagination and driver of social change motivation: Insights from five field studies* [Paper presentation]. EASP Small Group Meeting "Towards a Social Psychology of Prefigurative Politics", University of Klagenfurt, Klagenfurt, Austria.
+
+Bleh, J., Masson, T., & Fritsche, I. (2026, June 30–July 4). *When do visions motivate change? The moderating effect of perceived plausibility and the role of human nature beliefs in shaping what is perceived as possible* [Paper presentation]. General Meeting of the European Association of Social Psychology (EASP), Strasbourg, France.
+
+Bleh, J., Masson, T., & Fritsche, I. (2026, April 9–11). *Collective future thinking: Envisioning a possible alternative to the current society increases support for socio-ecological change* [Paper presentation]. 16th Conference of the Austrian Psychological Society (ÖGP), Salzburg, Austria.
+
+Bleh, J., Masson, T., & Fritsche, I. (2025, September 14–16). *The ability to imagine social change: Motivational effects and boundary conditions* [Paper presentation]. 19th Conference of the Social Psychology Section of the German Psychological Society (DGPs), Bochum, Germany.
+
+Bleh, J., Masson, T., & Fritsche, I. (2025, June 15–18). *Increasing people's ability to imagine a socially and ecologically just society: Motivational effects and boundary conditions* [Paper presentation]. International Conference on Environmental Psychology (ICEP), Vilnius, Lithuania.
+
+Bleh, J., Masson, T., & Fritsche, I. (2025, June 10–12). *Increasing people's ability to imagine a socially and ecologically just society: Motivational effects and boundary conditions* [Paper presentation]. Small Group Meeting "Envisioning the Future as a Driver of Individual and Collective Change for Sustainable Development", Paris, France.
+
+Bleh, J., Masson, T., & Fritsche, I. (2025, February 26). *Overcoming a crisis of imagination: When, why and how does the ability to imagine alternatives to the status quo promote action for social change* [Invited talk]. Social Change Lab, The University of Queensland, Brisbane, Australia.
+
+Bleh, J. (2024, August 29–31). *From imagination to activism: The emergence of cognitive alternatives and the processes linking them to collective action* [Paper presentation]. 1st Collective Action Network Meeting "Understanding the Multifaceted and Applied Nature of Collective Action Research" (EASP, BPS & SPSSI), Durham University, Durham, United Kingdom.
+
+Bleh, J. (2023, June 20–23). *Social experiences as inspiration for societal imagination: First insights from three field studies* [Paper presentation]. International Conference on Environmental Psychology (ICEP), Aarhus, Denmark.
+
+### Symposia (Chair)
+
+Bosone, L., & Bleh, J. (Chairs). (2026, June 30–July 4). *Beyond the crisis of imagination: The transformative power of imagined futures* [Symposium]. General Meeting of the European Association of Social Psychology (EASP), Strasbourg, France.
+
+Bleh, J., & Masson, T. (Chairs). (2025, June 15–18). *Overcoming a crisis of imagination: When, why and how do visions of sustainable societies promote action for social change* [Symposium]. International Conference on Environmental Psychology (ICEP), Vilnius, Lithuania.
+
 ## Educational work
 ### Workshops
 I have given numerous workshops introducing and applying social psychological findings to practical questions of campaigning for socio-ecological change, e.g. for organisations like BUND (Friends of the Earth Germany), Greenpeace, NABU or Demokratie-Stiftung Campact.
 
-### Teaching
-- – Lecture (1 of 6 lectures) in *Environmental Psychology* and small-group seminar *Environmental Psychological Problem Analysis*, (M.Sc. Psychology, 5 ECTS), Summer Term 2023, Leipzig University
-- – Project course *Consulting in Applied Social and Environmental Psychology* (M.Sc. Psychology, 5 ECTS), Summer Term 2024, Leipzig University
+### Teaching & Supervision
+- – Seminar *Social Psychology* (B.A. Teacher Education and B.A. Social Pedagogy), Winter Term 2026/27, Leuphana University Lüneburg
+- – Co-development of the quantitative research methods course (M.Sc. Social Work Research), 2026, Leuphana University Lüneburg
 - – Lecture *Research Methods and Statistics II*, specialization in Business Psychology (B.Sc. Business Administration, 5 ECTS), Summer Term 2026, Magdeburg-Stendal University of Applied Sciences
-- – Supervision of 2 B.Sc. and 3 M.Sc. thesis projects, as well as various research interns
+- – Project course *Consulting in Applied Social and Environmental Psychology* (M.Sc. Psychology, 5 ECTS), Summer Term 2024, Leipzig University
+- – Lecture (1 of 6 lectures) in *Environmental Psychology* and small-group seminar *Environmental Psychological Problem Analysis*, (M.Sc. Psychology, 5 ECTS), Summer Term 2023, Leipzig University
+- – Supervision of 2 B.Sc. and 4 M.Sc. thesis projects, as well as various research interns
 
 
 ## Project experience & Funding acquisition
@@ -134,6 +165,8 @@ Evaluation of the TINK pilot project to introduce a rental system for cargo bike
 
 
 ### Facilitation (selection)
+
+Design and co-facilitation of a participatory session to co-produce a research agenda for a social psychology of prefigurative politics (2026) │ EASP Small Group Meeting "Towards a Social Psychology of Prefigurative Politics", University of Klagenfurt
 
 Design and facilitation of a workshop on methods for using societal visions and future scenarios in Education for Sustainable Development (2024) │ Runder Tisch BNE funded by MLUK Brandenburg
 
