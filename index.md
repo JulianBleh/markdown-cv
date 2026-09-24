@@ -32,14 +32,14 @@ Radboud University Nijmegen
 `since 07/2026` **Research associate (Wissenschaftlicher Mitarbeiter)**\
 Department of social and organisational psychology of social work Leuphana University of Lüneburg
 
+`since 01/2016` **Applied researcher, facilitator and project evaluator**\
+e-fect eG
+
 `03/2026 – 06/2026`  **Research associate (Wissenschaftlicher Mitarbeiter)**\
 Department of social psychology Leipzig University
 
 `03/2023 – 02/2026` **PhD scholarship**\
 German Federal Environmental Foundation (DBU)
-
-`since 01/2016` **Applied researcher, facilitator and project evaluator**\
-e-fect eG
 
 `11/2015 – 04/2016` **Research assistant**\
 International Centre for Sustainable Development\
