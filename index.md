@@ -11,7 +11,7 @@ Social psychologist, basic and applied researcher, facilitator.
 
 ## Research interests
 
-Socio-ecological change, societal visions and the ability to imagine social change (cognitive alternatives), implicit theories, social movements, political participation, quantitative and qualitative methods, experimental and longitudinal research designs, project evaluation and evaluation research
+Socio-ecological change, societal visions and the ability to imagine social change (cognitive alternatives), implicit theories, social movements, education, political participation, quantitative and qualitative methods, experimental and longitudinal research designs, project evaluation and evaluation research
 
 
 
